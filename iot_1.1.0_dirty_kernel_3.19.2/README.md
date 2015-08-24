@@ -12,6 +12,9 @@ Notes:
 - it was mostly tested on Galileo Gen2 board;
 - some problems with SPI driver (and as result with analog inputs A0-A5 of the board);
 
+24 Aug 2015
+ - create spidev1.0 from spidev169.0 (dynamic spidev)
+
 23 Aug 2015
  - some fixes in Gen1 drivers
 
