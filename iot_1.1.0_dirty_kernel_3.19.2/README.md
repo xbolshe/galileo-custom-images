@@ -17,9 +17,9 @@ Notes:
 29 Aug 2015
  - Add Robopeak USB display driver (https://github.com/robopeak/rpusbdisp)
 
-  ![alt tag](https://raw.github.com/xbolshe/galileo-custom-images/tree/master/iot_1.1.0_dirty_kernel_3.19.2/robopeak.jpg)
+  ![alt robopeak](robopeak.jpg?raw=true "robopeak")
 
-  ![alt text](robopeak2.jpg?raw=true "robopeak2")
+  ![alt robopeak2](robopeak2.jpg?raw=true "robopeak2")
 
 24 Aug 2015
  - create spidev1.0 from spidev169.0 (dynamic spidev)
