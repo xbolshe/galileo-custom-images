@@ -14,6 +14,8 @@ Notes:
 - it was mostly tested on Galileo Gen2 board;
 - some problems with SPI driver (and as result with analog inputs A0-A5 of the board);
 
+03 Sep 2015
+ - add nodejs v0.12.7, perl v5.14.3, sqlite3 v3.8.3.1, mailx v12.5
 
 01 Sep 2015
  - change uart8250 to quark_uart driver for ttyS0/ttyS1
