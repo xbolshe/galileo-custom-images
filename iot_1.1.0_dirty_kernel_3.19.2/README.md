@@ -10,6 +10,11 @@ Original source code:
 - https://downloadcenter.intel.com/download/23197/Intel-Quark-BSP
 - https://github.com/robopeak/rpusbdisp
 - http://git.open-mesh.org/
+- https://github.com/intel-iot-devkit/mraa
+- https://w1.fi/hostapd/
+- https://launchpad.net/ubuntu/+source/iw
+- https://wireless.wiki.kernel.org/en/developers/regulatory/crda
+
 
 See source code for license information.
 
@@ -20,10 +25,12 @@ Notes:
 
 08 Sep 2015
  - add for WiFi: hostapd v2.4, iw v4.1, crda
-   Use iw reg set <your_country_code_2_charcaters> to enable WiFi frequencies more than 1-11 channels
-   Use hostapd /etc/hostapd.conf to enable AP
+
+   - Use iw reg set <your_country_code_2_charcaters> to enable WiFi frequencies more than 1-11 channels
+   - Use hostapd /etc/hostapd.conf to enable AP
+
  - add mraa v0.7.4
-   Examples are located in /examples/mraa/
+   - Examples are located in /examples/mraa/
 
 03 Sep 2015
  - add nodejs v0.12.7, perl v5.14.3, sqlite3 v3.8.3.1, mailx v12.5
