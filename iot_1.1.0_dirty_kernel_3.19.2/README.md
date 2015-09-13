@@ -3,7 +3,7 @@ Galileo Board SD card Linux
 version iot 1.1.0 dirty + Kernel 3.19.2 (custom build xbolshe)
 
 USE LINK TO DOWNLOAD:
-https://xbolshe.github.io/galileo_iot_1.1.0_dirty_custom_build_xbolshe_kernel_v3.19.2_201509081.zip
+https://www.relvarsoft.com/galileo/galileo_iot_1.1.0_dirty_custom_build_xbolshe_kernel_v3.19.2_201509131.zip
 
 
 Original source code:
@@ -23,10 +23,13 @@ Notes:
 - it was mostly tested on Galileo Gen2 board;
 - some problems with SPI driver (and as result with analog inputs A0-A5 of the board);
 
+13 Sep 2015
+ - add tcpdump v4.7.4, upm v0.3.2
+
 08 Sep 2015
  - add for WiFi: hostapd v2.4, iw v4.1, crda
 
-   - Use iw reg set <your_country_code_2_charcaters> to enable WiFi frequencies more than 1-11 channels
+   - Use <b>iw reg set your_country_code_2_charcaters</b> to enable WiFi frequencies more than 1-11 channels
    - Use hostapd /etc/hostapd.conf to enable AP
 
  - add mraa v0.7.4
