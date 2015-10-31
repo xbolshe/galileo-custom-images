@@ -3,7 +3,7 @@ Galileo Board SD card Linux
 version iot 1.1.0 dirty + Kernel 3.19.2 (custom build xbolshe)
 
 USE LINK TO DOWNLOAD:
-https://www.relvarsoft.com/galileo/galileo_iot_1.1.0_dirty_custom_build_xbolshe_kernel_v3.19.2_201510041.zip
+https://www.relvarsoft.com/galileo/galileo_iot_1.1.0_dirty_custom_build_xbolshe_kernel_v3.19.2_201510311.zip
 
 
 Original source code:
@@ -21,8 +21,11 @@ See source code for license information.
 Notes:
 - this is a development version. Not all drivers and features may work correctly;
 - it was mostly tested on Galileo Gen2 board;
-- some problems with SPI driver (and as result with analog inputs A0-A5 of the board);
 
+
+31 Oct 2015
+ - update nodejs to 4.2.1
+ - fixed SPI driver problem
 
 04 Oct 2015
  - update nodejs to 4.1.1, mraa 0.8.0, upm 0.4.0
