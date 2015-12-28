@@ -21,7 +21,7 @@ Software packets
 * SQLite 3.8.6
 * nginx 1.9.9 (with HTTP2)
 * mc 4.8.14
-* maxwimax 0.1.1
+* madwimax 0.1.1
 * hostapd 2.4
 * iw 4.1
 * crda 1.0.1
