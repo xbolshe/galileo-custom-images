@@ -22,6 +22,10 @@ Notes:
 - this is a development version. Not all drivers and features may work correctly;
 
 
+28 Dec 2015
+ - development of this version is ended.
+   All features are available in iot_1.2.0_kernel_3.19.8 version.
+
 29 Nov 2015
  - update nodejs to 5.1.0, mraa to 0.8.1, nginx to 1.9.7
  - fixed a SPI driver and Gen1 ADC
