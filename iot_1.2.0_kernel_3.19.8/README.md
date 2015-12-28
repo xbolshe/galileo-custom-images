@@ -37,9 +37,11 @@ Screenshots
 ====
 
 * NodeJS 5.x on Galileo board
+
 ![alt tag](nodejs.jpg)
 
 * SQLite3 with NodeJS 5.3
+
 ![alt tag](node_sqlite3.jpg)
 
 
