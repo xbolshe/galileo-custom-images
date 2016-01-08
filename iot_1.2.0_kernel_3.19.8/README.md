@@ -2,17 +2,17 @@ Brief
 ====
 This SD card Linux image for Galileo Gen1/Gen2 boards is based on:
 * Base: [BSP 1.2.0](https://downloadcenter.intel.com/download/23197/Intel-Quark-BSP)
-* Kernel: 3.19.y (3.19.8 on 12.12.2015)
+* Kernel: 3.19.y (3.19.8 on 12.12.2015) with patches
 * Many packets shown below
 
 Link to download
 ====
-[Last version](https://relvarsoft.com/galileo/galileo_xbolshe_iot_1.2.0_kernel_v3.19.8_201512281.zip)
+[Last version](https://relvarsoft.com/galileo/galileo_xbolshe_iot_1.2.0_kernel_v3.19.8_featured_201601091.zip)
 
 
 Software packets
 ====
-* nodeJS 5.3.0
+* nodeJS 5.4.0
 * node-SQLite 3.1.0
 * mraa 0.9.0
 * upm 0.4.1
@@ -31,6 +31,7 @@ Software packets
 * nasm 2.11.05
 * yasm 1.2.0
 * curl 7.37.1
+* usb-modeswitch 2.2.6
 
 
 Screenshots
@@ -44,10 +45,15 @@ Screenshots
 
 ![alt tag](node_sqlite3.jpg)
 
+* Separated interrupts
+
+![alt tag](interrupts.jpg)
+
 
 Changelog
 ====
-2015-12-28:
-* First public release
+
+Changelog is available [here](CHANGELOG.md)
+
 
 xbolshe
