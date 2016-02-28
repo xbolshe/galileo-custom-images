@@ -19,7 +19,7 @@ Software packets
 * OpenSSL 1.0.2f
 * tcpdump 4.7.4
 * SQLite 3.11.0
-* nginx 1.9.11 (with HTTP2)
+* nginx 1.9.12 (with HTTP2)
 * mc 4.8.14
 * madwimax 0.1.1
 * hostapd 2.5

@@ -2,7 +2,7 @@ Changelog
 ====
 
 ## 2016-02-28
-* update to: nodejs 5.7.0, sqlite3 3.11.0, node-sqlite3 3.1.1
+* update to: nodejs 5.7.0, sqlite3 3.11.0, node-sqlite3 3.1.1, nginx 1.9.12
 * add netsnmp 5.7.3
 
 ## 2016-02-23
