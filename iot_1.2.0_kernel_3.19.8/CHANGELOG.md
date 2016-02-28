@@ -1,6 +1,10 @@
 Changelog
 ====
 
+## 2016-02-28
+* update to: nodejs 5.7.0, sqlite3 3.11.0, node-sqlite3 3.1.1
+* add netsnmp 5.7.3
+
 ## 2016-02-23
 * update to: mraa 0.9.4, upm 0.5.1, hostapd 2.5
 * add fasm 1.71.51, binutils 2.24, gdb 7.7.1, strace 4.8, make 4.0, cmake 3.4.2
