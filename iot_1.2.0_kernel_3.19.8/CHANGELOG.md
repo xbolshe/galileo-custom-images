@@ -1,6 +1,9 @@
 Changelog
 ====
 
+## 2016-04-09
+* update to: nodejs 5.10.1, node-sqlite3 3.1.3, nginx 1.9.14, mraa 0.10.1, upm 0.6.1
+
 ## 2016-02-28
 * update to: nodejs 5.7.0, sqlite3 3.11.0, node-sqlite3 3.1.1, nginx 1.9.12
 * add netsnmp 5.7.3

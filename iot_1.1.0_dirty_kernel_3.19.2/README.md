@@ -2,6 +2,8 @@ Galileo Board SD card Linux
 
 version iot 1.1.0 dirty + Kernel 3.19.2 (custom build xbolshe)
 
+OUT OF DATE.  Use [iot_1.2.0_kernel_3.19.8](https://github.com/xbolshe/galileo-custom-images/tree/master/iot_1.2.0_kernel_3.19.8)
+
 USE LINK TO DOWNLOAD:
 https://www.relvarsoft.com/galileo/galileo_iot_1.1.0_dirty_custom_build_xbolshe_kernel_v3.19.2_201511291.zip
 
@@ -24,7 +26,7 @@ Notes:
 
 28 Dec 2015
  - development of this version is ended.
-   All features are available in iot_1.2.0_kernel_3.19.8 version.
+   All features are available in [iot_1.2.0_kernel_3.19.8](https://github.com/xbolshe/galileo-custom-images/tree/master/iot_1.2.0_kernel_3.19.8) version.
 
 29 Nov 2015
  - update nodejs to 5.1.0, mraa to 0.8.1, nginx to 1.9.7
