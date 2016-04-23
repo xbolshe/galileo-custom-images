@@ -1,6 +1,10 @@
 Changelog
 ====
 
+## 2016-04-23
+* update to: nodejs 5.11.0, nginx 1.9.15, upm 0.6.2, OpenSSL 1.0.2g, sqlite3 3.12.1
+* add gcc 4.9.1, lshw B.02.17
+
 ## 2016-04-09
 * update to: nodejs 5.10.1, node-sqlite3 3.1.3, nginx 1.9.14, mraa 0.10.1, upm 0.6.1
 
