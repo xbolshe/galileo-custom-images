@@ -1,6 +1,10 @@
 Changelog
 ====
 
+## 2016-05-15
+* update to: nodejs 6.1.0, mraa 1.0.0, upm 0.7.0
+* add i2c-tools 3.1.1
+
 ## 2016-04-23
 * update to: nodejs 5.11.0, nginx 1.9.15, upm 0.6.2, OpenSSL 1.0.2g, sqlite3 3.12.1
 * add gcc 4.9.1, lshw B.02.17

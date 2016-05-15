@@ -7,15 +7,15 @@ This SD card Linux image for Galileo Gen1/Gen2 boards is based on:
 
 Link to download
 ====
-[Download last version](https://relvarsoft.com/galileo/galileo_xbolshe_iot_1.2.0_kernel_v3.19.8_featured_201604231.zip)
+[Download last version](https://relvarsoft.com/galileo/galileo_xbolshe_iot_1.2.0_kernel_v3.19.8_featured_201605151.zip)
 
 
 Software packets
 ====
-* nodeJS 5.11.0
+* nodeJS 6.1.0
 * node-SQLite 3.1.3
-* mraa 0.10.1
-* upm 0.6.2
+* mraa 1.0.0
+* upm 0.7.0
 * OpenSSL 1.0.2g
 * tcpdump 4.7.4
 * SQLite 3.12.1
@@ -44,6 +44,8 @@ Software packets
 * netsnmp 5.7.3
 * gcc 4.9.1
 * lshw B.02.17
+* i2c-tools 3.1.1
+
 
 Screenshots
 ====
