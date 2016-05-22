@@ -1,6 +1,9 @@
 Changelog
 ====
 
+## 2016-05-22
+* update to: nodejs 6.2.0, OpenSSL 1.0.2h, bluez 5.39, node-sqlite3 3.1.4
+
 ## 2016-05-15
 * update to: nodejs 6.1.0, mraa 1.0.0, upm 0.7.0
 * add i2c-tools 3.1.1
