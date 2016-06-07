@@ -1,6 +1,10 @@
 Changelog
 ====
 
+## 2016-06-07
+* update to: nodejs 6.2.1
+* add tinyb 0.4.3
+
 ## 2016-05-22
 * update to: nodejs 6.2.0, OpenSSL 1.0.2h, bluez 5.39, node-sqlite3 3.1.4
 
