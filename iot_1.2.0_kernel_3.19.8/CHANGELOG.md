@@ -1,6 +1,9 @@
 Changelog
 ====
 
+## 2016-06-26
+* update to: nodejs 6.2.2, mraa 1.1.0, sqlite3 3.13.0, nginx 1.11.1
+
 ## 2016-06-07
 * update to: nodejs 6.2.1
 * add tinyb 0.4.3
