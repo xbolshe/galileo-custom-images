@@ -1,6 +1,9 @@
 Changelog
 ====
 
+## 2016-09-24
+* update to: nodejs 6.6.0, mraa 1.3.0, upm 8.0, nginx 1.11.4, OpenSSL 1.0.2i, ntpdate 4.2.8p8
+
 ## 2016-07-10
 * update to: nodejs 6.3.0, mraa 1.1.1, upm 7.2, nginx 1.11.2
 
